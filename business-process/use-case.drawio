@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T10:19:27.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="FDdJBITaRyTIStvznj0n" type="github"><diagram id="qxUhUV0_AaV7eIC_QGrq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-01T10:45:35.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qLVfoTSyZkrx6pmmnKEv" version="20.2.2" type="github">
+  <diagram id="qxUhUV0_AaV7eIC_QGrq" name="Page-1">
+    <mxGraphModel dx="931" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-1" value="LENS Core" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="440" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-2" value="Finance Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-3" value="Fleet Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-4" value="BP Owners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-5" value="Truck" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-Q1kIZOvRbdLqbTq5XOm-10" target="-Q1kIZOvRbdLqbTq5XOm-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Q1kIZOvRbdLqbTq5XOm-10" target="-Q1kIZOvRbdLqbTq5XOm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Q1kIZOvRbdLqbTq5XOm-10" target="-Q1kIZOvRbdLqbTq5XOm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-10" value="Suppliers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-11" value="Pilots" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-12" value="Procurement Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-13" value="Service Experts" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-15" value="Portal" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="160" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-16" value="Request Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-17" value="View Invocie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="325" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-18" value="Check service status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-24" value="Sales" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-25" value="Approves Quote" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-26" value="Quotation" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.013;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Q1kIZOvRbdLqbTq5XOm-16" target="-Q1kIZOvRbdLqbTq5XOm-24">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-27" value="Creates Work Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-28" value="Creates Delivery Note" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-29" value="Fleet" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="160" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-Q1kIZOvRbdLqbTq5XOm-30" value="Create Trip" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
