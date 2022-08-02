@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T09:49:17.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IZ0UnL9v976csqRRATax" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T10:05:00.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FfJ1MBaqC6i5xug-kXES" version="20.2.2" type="github">
   <diagram id="KQCACBsiRu173Gl-Ky1V" name="Page-1">
     <mxGraphModel dx="931" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxRectangle width="473" height="157" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vWYxmfNiJoRv-lO960Dk-5" value="Finance" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-2">
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-5" value="Expenses" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-2">
           <mxGeometry x="910" width="320" height="157" as="geometry">
             <mxRectangle width="320" height="157" as="alternateBounds" />
           </mxGeometry>
@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-40" value="Create Trip" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="1">
-          <mxGeometry x="700" y="598.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="672" y="598.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWYxmfNiJoRv-lO960Dk-34" target="vWYxmfNiJoRv-lO960Dk-40">
           <mxGeometry relative="1" as="geometry" />
@@ -150,18 +150,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-46" value="Pick up the consignment" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-45">
-          <mxGeometry x="53" y="53" width="120" height="80" as="geometry" />
+          <mxGeometry x="53" y="43" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-47" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-43">
           <mxGeometry x="910" width="320" height="157" as="geometry">
             <mxRectangle width="397" height="157" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWYxmfNiJoRv-lO960Dk-49" target="vWYxmfNiJoRv-lO960Dk-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-49" value="Deliver Consignment" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="1">
-          <mxGeometry x="672" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="672" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWYxmfNiJoRv-lO960Dk-46" target="vWYxmfNiJoRv-lO960Dk-49">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-51" value="Add Fuel" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="1">
+          <mxGeometry x="872" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-58" value="Petrol Bunks" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="874" width="1230" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-59" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-58">
+          <mxGeometry x="40" width="397" height="157" as="geometry">
+            <mxRectangle width="397" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-60" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-58">
+          <mxGeometry x="437" width="473" height="157" as="geometry">
+            <mxRectangle width="396" height="157" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-61" value="Supplies Diesel" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-60">
+          <mxGeometry x="143" y="46" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vWYxmfNiJoRv-lO960Dk-62" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-58">
+          <mxGeometry x="910" width="320" height="157" as="geometry">
+            <mxRectangle width="397" height="157" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
