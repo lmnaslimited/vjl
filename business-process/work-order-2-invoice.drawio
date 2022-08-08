@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T09:36:27.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R663Bq5PmnRy0KpcHGsc" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T09:43:16.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Pl_5KV8RnyHTMC1mAQVG" version="20.2.2" type="github">
   <diagram id="KQCACBsiRu173Gl-Ky1V" name="Page-1">
-    <mxGraphModel dx="2328" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,9 @@
         <mxCell id="vWYxmfNiJoRv-lO960Dk-27" value="Create order" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="vWYxmfNiJoRv-lO960Dk-7" vertex="1">
           <mxGeometry x="251" y="35" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-85" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/quote-128.png;glass=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-7">
+          <mxGeometry x="181" y="41" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-8" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="vWYxmfNiJoRv-lO960Dk-6" vertex="1">
           <mxGeometry x="431" width="570" height="152" as="geometry">
             <mxRectangle width="570" height="152" as="alternateBounds" />
@@ -71,6 +74,9 @@
         <mxCell id="uZMhd9_ub29U1fFuiPze-40" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" parent="vWYxmfNiJoRv-lO960Dk-8" vertex="1">
           <mxGeometry x="430" y="49" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/truck-delivery-shipping-logistics-128.png;glass=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-8">
+          <mxGeometry x="149" y="41" width="18" height="18" as="geometry" />
+        </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-9" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="vWYxmfNiJoRv-lO960Dk-6" vertex="1">
           <mxGeometry x="1001" width="520" height="152" as="geometry">
             <mxRectangle width="520" height="152" as="alternateBounds" />
@@ -84,6 +90,9 @@
         </mxCell>
         <mxCell id="uZMhd9_ub29U1fFuiPze-51" value="Create Sales Invoice" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="vWYxmfNiJoRv-lO960Dk-9" vertex="1">
           <mxGeometry x="50" y="34" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/journal-text-128.png" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-9">
+          <mxGeometry x="140" y="41.5" width="21.5" height="21.5" as="geometry" />
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="vWYxmfNiJoRv-lO960Dk-6" source="vWYxmfNiJoRv-lO960Dk-27" target="vWYxmfNiJoRv-lO960Dk-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -175,19 +184,22 @@
           <mxGeometry x="395" y="38.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZMhd9_ub29U1fFuiPze-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/app-custom-ui-1/48/Check_circle-128.png" parent="vWYxmfNiJoRv-lO960Dk-35" vertex="1">
-          <mxGeometry x="474.5" y="45" width="26.5" height="26.5" as="geometry" />
+          <mxGeometry x="479.5" y="43" width="26.5" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-84" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.rail_shipment;glass=0;" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-35">
+          <mxGeometry x="121" y="49" width="47" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="uZMhd9_ub29U1fFuiPze-25" value="Create Purchase Invoice" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="vWYxmfNiJoRv-lO960Dk-32" vertex="1">
           <mxGeometry x="1293" y="41" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uZMhd9_ub29U1fFuiPze-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/basic-e-commerce-line-color/48/Receipt-128.png" parent="vWYxmfNiJoRv-lO960Dk-32" vertex="1">
-          <mxGeometry x="1370" y="41" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="uZMhd9_ub29U1fFuiPze-30" value="Trip&#xa;Add Toll Expense" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="vWYxmfNiJoRv-lO960Dk-32" vertex="1">
           <mxGeometry x="1051" y="41" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uZMhd9_ub29U1fFuiPze-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_toll_48px-128.png" parent="vWYxmfNiJoRv-lO960Dk-32" vertex="1">
-          <mxGeometry x="1213" y="41" width="29" height="29" as="geometry" />
+          <mxGeometry x="1135" y="44.75" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-80" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/journal-text-128.png" vertex="1" parent="vWYxmfNiJoRv-lO960Dk-32">
+          <mxGeometry x="1381" y="44.75" width="21.5" height="21.5" as="geometry" />
         </mxCell>
         <mxCell id="vWYxmfNiJoRv-lO960Dk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" parent="1" source="vWYxmfNiJoRv-lO960Dk-29" target="vWYxmfNiJoRv-lO960Dk-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -307,6 +319,9 @@
         <mxCell id="uZMhd9_ub29U1fFuiPze-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;flowAnimation=1;" parent="uZMhd9_ub29U1fFuiPze-140" source="uZMhd9_ub29U1fFuiPze-62" target="uZMhd9_ub29U1fFuiPze-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/rich-128.png;glass=0;" vertex="1" parent="uZMhd9_ub29U1fFuiPze-140">
+          <mxGeometry x="60" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="uZMhd9_ub29U1fFuiPze-159" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" parent="1" vertex="1">
           <mxGeometry x="1932" y="890" width="50" height="50" as="geometry" />
         </mxCell>
@@ -373,6 +388,9 @@
         </mxCell>
         <mxCell id="qRxEaFZJjYKyqnV5l85A-74" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1932" y="457.5" width="48" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qRxEaFZJjYKyqnV5l85A-82" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/rich-128.png;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="443" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
